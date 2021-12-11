@@ -58,6 +58,7 @@ body {
 .activity {
     margin: 10px 0;
     font-size: 1.3rem;
+    text-align: center;
 }
 
 .type {
